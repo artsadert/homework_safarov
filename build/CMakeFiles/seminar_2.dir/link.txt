@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/seminar_2.dir/main.cpp.o -o seminar_2

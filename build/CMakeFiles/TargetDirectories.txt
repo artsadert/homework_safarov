@@ -1,3 +1,0 @@
-/home/arthur/programs/cpp/seminar_2/build/CMakeFiles/seminar_2.dir
-/home/arthur/programs/cpp/seminar_2/build/CMakeFiles/edit_cache.dir
-/home/arthur/programs/cpp/seminar_2/build/CMakeFiles/rebuild_cache.dir
