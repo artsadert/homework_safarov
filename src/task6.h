@@ -9,10 +9,6 @@ void reverseArray(int data[], int size) {
         data[i] = data[size - i - 1];
         data[size - i - 1] = temp;
     }
-
-    for (int i = 0; i < size; i++) {
-        cout << data[i] << " ";
-    }
 }
 
 void reverseArray(double data[], int size) {
@@ -20,9 +16,5 @@ void reverseArray(double data[], int size) {
         double temp = data[i];
         data[i] = data[size - i - 1];
         data[size - i - 1] = temp;
-    }
-
-    for (int i = 0; i < size; i++) {
-        cout << data[i] << " ";
     }
 }
